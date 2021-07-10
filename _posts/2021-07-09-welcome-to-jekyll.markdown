@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Welcome!
+date:   2021-07-09 07:08:13 -0500
+---
+
+The first post is really just to enable the Post section to appear in the homepage. I will regularly be publishing more post about the development this same way. Expect posts to include non-major updates. For example I will be adding minor brainstorming ideas that I come up with that could be helpful to implement the game mechanics. I may also instead cancel ideas introduced earlier in later posts.
+
+TL;DR Posts are essentially my notes.
+
+P.S. Specs, on the other hand, will detail firm documentation about the mechanics that I have "prototyped" in Posts as well as those that I will for sure expect to include in the final product (mostly gameplay).
