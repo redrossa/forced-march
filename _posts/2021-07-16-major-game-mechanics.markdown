@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Major Game Mechanics
+title:  Major Game Mechanics
+date:   2021-07-16 23:11:04
 ---
 
 Forced March is a real-time grand strategy wargame in which players take on the role of a character in classical antiquity. The map focuses on the Italian peninsula, set during the prelude to the First Samnite War.
