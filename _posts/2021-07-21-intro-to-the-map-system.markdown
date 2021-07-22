@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Intro to the Map System
+date: 2021-07-21 13:36:44
 ---
 
 Forced March hopes to reintroduce the old way of thinking of cartography. The heavy reliance on maps on strategy games is the result of applying modern perspectives on historical contexts. Instead, maps were only much recently used purely for navigation. Before the 18th century, maps were a form of art; they were highly stylized to appease those that can afford them. Forced March introduces a map system that restricts players in a way to produce an immersive experience as if players are truly standing on the battlefield.
